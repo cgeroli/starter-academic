@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -20,20 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Attività:
+- Accompagnamento di alcune famiglie con ragazzi disabili
+- Promozione sul territorio di tematiche legate alla disabilità
+- Volontariato
 
-education:
+Diamo i numeri:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Anno di Fondazione: 2009
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Numero Soci Sostenitori: 13
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: Numero Volontari Attivi: 45
+    institution: Massachusetts Institute of Technology
+    year: 2008
+  - course: Famiglie Accompagnate: 5
     institution: Massachusetts Institute of Technology
     year: 2008
 
@@ -73,6 +76,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+L'Associazione "Amici di Edo" è stata fondata nel 2010 da un gruppo di Amici che già da tempo sostenevano e accompagnavano le attività di Edoardo.
+Oggi l'Associazione conta più di 40 volontari e assiste 5 famiglie del territorio, attraverso attività di volontariato costante presso le famiglie dei ragazzi e attraverso un contributo economico per le attività svolte dai ragazzi.
