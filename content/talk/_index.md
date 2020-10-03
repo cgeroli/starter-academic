@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: La Nostra Storia
 
 # View.
 #   1 = List
