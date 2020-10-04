@@ -75,6 +75,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-L'Associazione "Amici di Edo" è stata fondata nel 2010 da un gruppo di Amici che già da tempo sostenevano e accompagnavano le attività di Edoardo.
-Oggi l'Associazione conta più di 40 volontari e assiste 5 famiglie del territorio, attraverso attività di volontariato costante presso le famiglie dei ragazzi e attraverso un contributo economico per le attività svolte dai ragazzi.
