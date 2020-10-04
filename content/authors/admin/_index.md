@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Attività:
+interests
 - Accompagnamento di alcune famiglie con ragazzi disabili
 - Promozione sul territorio di tematiche legate alla disabilità
 - Volontariato
 
-Diamo i numeri:
+education:
   courses:
   - course: Anno di Fondazione: 2009
     institution: Stanford University
