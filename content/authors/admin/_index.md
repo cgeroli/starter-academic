@@ -21,22 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Accompagnamento di alcune famiglie con ragazzi disabili
-- Promozione sul territorio di tematiche legate alla disabilità
-- Volontariato
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: Anno di Fondazione: 2009
+  - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: Numero Soci Sostenitori: 13
+  - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: Numero Volontari Attivi: 45
-    institution: Massachusetts Institute of Technology
-    year: 2008
-  - course: Famiglie Accompagnate: 5
+  - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
 
